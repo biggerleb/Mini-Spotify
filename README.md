@@ -20,4 +20,5 @@ npm start
 * Redux
 * Spotify Web API
 * Bootstrap 4  
+### Warning
 First boot of this app may take some time because my free heroku server which handles Spotify Web API authentication will need to "wake up"
