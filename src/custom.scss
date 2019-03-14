@@ -1,0 +1,18 @@
+$theme-colors: (
+	"primary": #76b39d,
+	"secondary": #05004e
+);
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+@include media-breakpoint-up(sm) {
+  html {
+    font-size: 0.9rem;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 1rem;
+  }
+}
