@@ -1,6 +1,7 @@
 # Mini-Spotify
 You can browse artists, search for tracks, check trending playlists, play music etc.
-### Prerequisites
+Live version is available at https://biggerleb.github.io/mini-spotify-clone/
+### Prerequisites for running this app on your local machine
 In installation steps I will assume that you have installed NPM
 ### Installation
 Create app with Create React App
@@ -11,7 +12,7 @@ In mini-spotify directory delete all files and directories except node-modules d
 ```
 npm install
 ```
-And to start local server running app run
+And to run this app on local server run
 ```
 npm start
 ```
