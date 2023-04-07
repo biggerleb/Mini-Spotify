@@ -1,6 +1,7 @@
 # Mini-Spotify
 You can browse artists, search for tracks, check trending playlists, play music etc.
-Live version is available at https://biggerleb.github.io/mini-spotify-clone/
+
+~~Live version is available at https://biggerleb.github.io/mini-spotify-clone/~~ live version stopped working due to problems with authorization to Spotify API (Apr 2023), didn't manage to fix it yet
 ### Prerequisites for running this app on your local machine
 In installation steps I will assume that you have installed NPM
 ### Installation
